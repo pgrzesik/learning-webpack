@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Piotr Grzesik <pj.grzesik@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "devDependencies": {
     "webpack": "^3.3.0"
   }
